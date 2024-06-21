@@ -1,5 +1,3 @@
-import React from "react";
-
 const Stats = () => {
   return (
     <div className="stats-container md:mt-20 mt-14 md:h-96 h-80 flex-col flex items-center justify-center">

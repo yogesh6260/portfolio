@@ -1,4 +1,3 @@
-import React from "react";
 import ServiceCard from "../components/ServiceCard";
 import PulseIcon from "../assets/icons/pulse.png";
 import SquareIcon from "../assets/icons/square.png";

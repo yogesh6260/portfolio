@@ -1,4 +1,3 @@
-import React from "react";
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import PhoneOutlinedIcon from "@mui/icons-material/PhoneOutlined";
 import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
@@ -36,7 +35,7 @@ const Contact = () => {
             <PhoneOutlinedIcon className="contact-icon" fontSize="medium" />
           </div>
           <div>
-            <h1 className="text-black md:text-lg text-sm md:font-semibold font-bold" >
+            <h1 className="text-black md:text-lg text-sm md:font-semibold font-bold">
               Telephone
             </h1>
             <p className="text-sm text-gray-600">+91 6260811979</p>

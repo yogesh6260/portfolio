@@ -1,4 +1,3 @@
-import React from "react";
 import Profile from "../assets/img/profile1-img.jpeg";
 import Bar from "../components/Bar";
 
